@@ -1,0 +1,28 @@
+{
+    "Student":[
+        {
+            "name": "Ankit",
+            "branch": "CSE",
+            "cgpa":8.0
+            
+        },
+        {
+            "name": "Ankita",
+            "branch": "ECE",
+            "cgpa":8.4
+            
+        },
+        {
+            "name": "Priyanka",
+            "branch": "AI",
+            "cgpa":9.0
+            
+        },
+        {
+            "name": "Sahil",
+            "branch": "CSF",
+            "cgpa":8.9
+            
+        }
+    ]
+}
